@@ -12,4 +12,11 @@ This is my first git repository.
 - Excel
 - Web Development
 
+- ## 📫 Contact
+
+- 📧 Email: anshikasingh96538@gmail.com
+- 💼 LinkedIn: linkedin.com/in/anshika-singh-973842329
+- 🌐 Portfolio: personal-portfolio-wine-kappa-27.vercel.app
+
+
 Author: Anshika Singh
