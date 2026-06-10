@@ -19,4 +19,4 @@ This is my first git repository.
 - 🌐 Portfolio: personal-portfolio-wine-kappa-27.vercel.app
 
 
-Author: Anshika Singh
+Author: Anshika Singh.
